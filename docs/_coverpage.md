@@ -1,4 +1,4 @@
-![头像](C:\Users\John\Pictures\头像.webp)
+![icon](\_media\icon.webp)
 
 # 张张
 
