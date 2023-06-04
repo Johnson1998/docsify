@@ -1,4 +1,4 @@
-![icon](_media\\icon.webp)
+![icon](_media/icon.webp)
 
 # 张张
 
