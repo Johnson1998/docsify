@@ -1,6 +1,6 @@
 # Configuration
 
-You can configure Docsify by defining `window.$docsify` as an object:
+You can configure Docsify by defining `window.$docsify` as an object:猪
 
 ```html
 <script>
