@@ -4,7 +4,6 @@
   - [Writing more pages](more-pages.md)
   - [Custom navbar](custom-navbar.md)
   - [Cover page](cover.md)
-
 - Customization
 
   - [Configuration](configuration.md)
@@ -14,7 +13,6 @@
   - [Markdown configuration](markdown.md)
   - [Language highlighting](language-highlight.md)
   - [Emoji](emoji.md)
-
 - Guide
 
   - [Deploy](deploy.md)
@@ -24,6 +22,6 @@
   - [Offline Mode (PWA)](pwa.md)
   - [Server-Side Rendering (SSR)](ssr.md)
   - [Embed Files](embed-files.md)
-
 - [Awesome docsify](awesome.md)
 - [Changelog](changelog.md)
+- [test](vue - 副本.md)
